@@ -1,7 +1,7 @@
 ## Overview
 Goal of this project is to make use of cheap, easily available laptop cameras and repurpose them as fully functional USB cameras.
 
-In https://github.com/JacobPCL/cheap_webcam/blob/master/cam_models/camera_list.md you can find list of tested cameras and in corresponding laptop model folder in cam_models you can find pinout. The same model of camera can have different PCB version thus different test point alignment so watch out.
+In https://github.com/JacobPCL/cheap_webcam/blob/master/camera_list.md you can find list of tested cameras and in corresponding laptop model folder in cam_models you can find pinout. The same model of camera can have different PCB version thus different test point alignment so watch out.
 
 ## To Do
 - [ ] design 3d cases for tested cameras
@@ -28,7 +28,7 @@ Which one is + which - you will have to find by connecting it to a PC after you 
 If data pins are reversed computer will detect there is USB device but wont be able to get USB ID, if the order is correct device will be recognized.
 
 #### 3. Finding 3.3V
-This is the hardest one. The easiest way is to find large SMD capacitor near camera chip which one lead is connected to GND, this is called a decoupling capacitor, the other lead of that capacitor will be connected to 3.3V line. Touch the 3.3V lead capacitor with one test lead and using continuity check function find 3.3V pin/test pad.
+This is the hardest one. The easiest way is to find large SMD capacitor near camera chip which one lead is connected to GND, this is called a decoupling capacitor, the other lead of that capacitor will be connected to 3.3V line. Touch the 3.3V capacitor lead with one test lead and using continuity check function find 3.3V pin/test pad.
 
 ![Image of decoupling cap](https://raw.githubusercontent.com/JacobPCL/cheap_webcam/master/images/de_cap.jpg)
 
