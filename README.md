@@ -42,4 +42,4 @@ When You are sure which pin is which you can connect your camera:
 
 ![Image of wire connection](https://raw.githubusercontent.com/JacobPCL/cheap_webcam/master/images/1n4001.jpg)
 
-If everything is correct your OS should recognize your cam and you should be able to get image from it. If everything is correct your OS should recognize your cam and you should be able to get image from it.
+If everything is correct your OS should recognize your cam and you should be able to get image from it. 
