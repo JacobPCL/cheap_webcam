@@ -1,7 +1,9 @@
 ## Overview
 Goal of this project is to make use of cheap, easily available laptop cameras and repurpose them as fully functional USB cameras.
 
-You can find the list of tested cameras & pinouts belos. The same model of camera can have different PCB version, thus different test point alignment, so watch out.
+You can find the list of tested cameras & pinouts below. The same model of camera can have different PCB version, thus different test point alignment, so watch out.
+
+If your cam is not on the list, please read the [tutorial here](#how-to-reverse-engineer-camera-pinout).
 
 ## To Do
 - [ ] design 3d cases for tested cameras
