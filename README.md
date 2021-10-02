@@ -37,7 +37,7 @@ Dell Inspiron 1564|0947A2|1
 
 ### Dell Inspiron 1564
 
-![Dell Inspiron 1564 camera](cam_models/inspiron_3542/inspiron_15_3542_v2.jpg)
+![Dell Inspiron 1564 camera](cam_models/inspiron_1564/inspiron_1564_v1.jpg)
 
 ## How to reverse engineer camera pinout.
 
