@@ -19,7 +19,7 @@ Dell Inspiron 3162|0F08KG|1
 Dell Inspiron 3542|0VFV69|2
 
 ## Pinouts
-### Dell Inspiron 1564
+### Dell Inspiron 1564 (CK77 94V-0)
 
 ![Dell Inspiron 1564 camera](cam_models/inspiron_1564/inspiron_1564_v1.jpg)
 
