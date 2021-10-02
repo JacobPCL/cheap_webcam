@@ -19,6 +19,10 @@ Dell Inspiron 3162|0F08KG|1
 Dell Inspiron 3542|0VFV69|2
 
 ## Pinouts
+### Dell Inspiron 1564
+
+![Dell Inspiron 1564 camera](cam_models/inspiron_1564/inspiron_1564_v1.jpg)
+
 ### Dell Inspiron 3135 / 7537
 
 ![Dell Inspiron 3135 / 7537 camera](cam_models/inspiron_3135/inspiron_3135_7537_v1.jpg)
@@ -34,10 +38,6 @@ Dell Inspiron 3542|0VFV69|2
 ![Dell Inspiron 3542 camera](cam_models/inspiron_3542/inspiron_15_3542_v1.jpg)
 
 ![Dell Inspiron 3542 camera](cam_models/inspiron_3542/inspiron_15_3542_v2.jpg)
-
-### Dell Inspiron 1564
-
-![Dell Inspiron 1564 camera](cam_models/inspiron_1564/inspiron_1564_v1.jpg)
 
 ## How to reverse engineer camera pinout.
 
