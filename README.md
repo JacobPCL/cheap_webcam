@@ -13,10 +13,10 @@ If your cam is not on the list, please read the [tutorial here](#how-to-reverse-
 
 Laptop model|P/N|PCB versions
 --|--|--
+Dell Inspiron 1564|0947A2|1
 Dell Inspiron 3135 / 7537|0DWGV8|2
 Dell Inspiron 3162|0F08KG|1
 Dell Inspiron 3542|0VFV69|2
-Dell Inspiron 1564|0947A2|1
 
 ## Pinouts
 ### Dell Inspiron 3135 / 7537
